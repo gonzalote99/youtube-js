@@ -1,0 +1,15 @@
+[
+  {
+      "thumbnail": "https://raw.githubusercontent.com/jigar-sable/web-ui-clones/main/YouTube/public/assets/images/ganesh.jpg",
+      "videoURL": "#",
+      "duration": "16:25",
+      "desc": {
+          "channelLogo": "https://raw.githubusercontent.com/jigar-sable/web-ui-clones/main/YouTube/public/assets/images/hero.png",
+          "channelName": "Jhon Doe",
+          "channelURL": "#",
+          "title": "This is YouTube Web UI Clone using TailwindCSS",
+          "views": "51k",
+          "published": "1 week"
+      }
+  }
+]
